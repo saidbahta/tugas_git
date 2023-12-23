@@ -1,0 +1,3 @@
+nama : Arachman Syah Sangadji
+npm  : 61011120045
+kelas: B
